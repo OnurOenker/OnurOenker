@@ -49,6 +49,14 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=Russia-ukraine-war)](https://github.com/OnurOenker/Russia-ukraine-war)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=fake-news-finder)](https://github.com/OnurOenker/fake-news-finder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=forbes-list-2022)](https://github.com/OnurOenker/forbes-list-2022)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=gun-violence-usa)](https://github.com/OnurOenker/gun-violence-usa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=mcdonalds-nutrition)](https://github.com/OnurOenker/mcdonalds-nutrition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=python-and-sql)](https://github.com/OnurOenker/python-and-sql)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=vaccine-myths-reddit)](https://github.com/OnurOenker/vaccine-myths-reddit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=trump-twitter)](https://github.com/OnurOenker/trump-twitter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OnurOenker&repo=student-performance)](https://github.com/OnurOenker/student-performance)
 
 <Br>
 <hr>
