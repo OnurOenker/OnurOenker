@@ -66,7 +66,7 @@
   
 |[![](https://img.shields.io/badge/Data%20Science%20with%20Databricks-red?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/NC6HDQH37H26)|[![](https://img.shields.io/badge/Python%20for%20Everybody-blue?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/8S4XK7FQF6DR)|[![](https://img.shields.io/badge/Business%20Analytics-green?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/WKBLMC5DJX75)|[![](https://img.shields.io/badge/Modern%20Big%20Data%20Analysis%20with%20SQL-orange?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/VF8SCDCAFWWR)|
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Excel%20Skills%20for%20Business-green?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/QLZTGCNL3DG4)|[![](https://img.shields.io/badge/Google%20Data%20Analytics-purple?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/VMY4GNRCTTUF)
+|[![](https://img.shields.io/badge/Excel%20Skills%20for%20Business-green?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/QLZTGCNL3DG4)|[![](https://img.shields.io/badge/Google%20Data%20Analytics-purple?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/certificate/VMY4GNRCTTUF)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/OnurOenker)|
   
  
 
